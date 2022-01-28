@@ -32,7 +32,7 @@ dependencies:
   # launch phone call indirectly
   url_launcher: ^6.0.9
   # launch phone call directly
-  #flutter_phone_direct_caller: ^2.1.0
+  flutter_phone_direct_caller: ^2.1.0
 
 dev_dependencies:
   flutter_test:
